@@ -1,2 +1,2 @@
 # Automation
-Automation testing src
+Automation testing src automate the webapplication
