@@ -40,6 +40,8 @@ public class OpenGoogleStepDefinitions {
 			System.out.println("Results not displayed");
 		// add coomand
 					System.out.println("Throgh the error msg");
+		//added browser close
+		
 
 	}
 
